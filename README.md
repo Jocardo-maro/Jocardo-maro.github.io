@@ -1,5 +1,4 @@
 # Jocardo-maro.github.io
-currículo:
 meu nome é João Ricardo, sou um diretor criativo do grupo "los devs".
 sou compositor (autodidata, logo aprendiz), desenhista, pintor, e as vezes escrevo.
 sou bilíngue (português e inglês).
